@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FoxOps
 - 👀 I’m interested in DevOps, Python, Linux
-- 🌱 I’m currently studying to be a SysAdmin
+- 🌱 I’m a SysAdmin and this account is here to showcase my work and study work
 
 
 <!---
