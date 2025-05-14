@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FoxOps
-- 👀 I’m interested in DevOps, Python, Linux
-- 🌱 I’m a SysAdmin and this account is here to showcase my work and study work
+- 👋 Hi, I’m @FoxOps, 34 years young from France. 
+- 👀 I’m interested in DevOps, Python, Linux and many other things. I spend my free time homelabing.
+- 🌱 I’m a Linux Admin and this account is here to showcase my work and study. Not much is currently on it but it may change at anytime.
 
 
 <!---
